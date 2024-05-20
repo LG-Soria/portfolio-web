@@ -36,7 +36,7 @@
   position: absolute;
   animation: reveal linear both;
   animation-timeline: scroll(root);
-  animation-range: 0 450px;
+  animation-range: 0 460px;
 }
 .imgBox img {
   width: 600px;
